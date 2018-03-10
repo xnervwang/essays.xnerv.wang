@@ -8,5 +8,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: http://www.xnerv.wang/sitemap.xml
-Sitemap: http://www.xnerv.wang/baidusitemap.xml
+Sitemap: http://essay.xnerv.wang/sitemap.xml
+Sitemap: http://essay.xnerv.wang/baidusitemap.xml
