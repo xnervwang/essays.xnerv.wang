@@ -9,5 +9,5 @@ Allow: /
 # Disallow: /vendors/
 # Disallow: /fancybox/
 
-Sitemap: http://essay.xnerv.wang/sitemap.xml
-Sitemap: http://essay.xnerv.wang/baidusitemap.xml
+Sitemap: http://essays.xnerv.wang/sitemap.xml
+Sitemap: http://essays.xnerv.wang/baidusitemap.xml
